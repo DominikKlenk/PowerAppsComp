@@ -1,0 +1,9 @@
+.rounded {
+    --button-background-color: transparent;
+    --button-border-color: rgb(0, 183, 148);
+    --button-color: rgb(0, 183, 148);
+    --button-hover-bg: rgb(0, 183, 148);
+    --button-hover-border: rgb(0, 183, 148);
+    --button-hover-color: white;
+    margin-left: 20px;
+}
